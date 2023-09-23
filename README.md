@@ -1,6 +1,6 @@
 ![Build Status](https://github.com/internetarchive/archiveorg-e2e-tests/actions/workflows/main.yml/badge.svg)
 
-# End to end tests for Archive.org using [Playwright](https://playwright.dev/)
+# search Archive.org using [Playwright](https://playwright.dev/) 
 
 ## Setup
 
